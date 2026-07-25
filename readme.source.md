@@ -15,7 +15,7 @@
         <stop offset="0%" stopColor="rgba(34,211,238,.17)" />
         <stop offset="100%" stopColor="rgba(34,211,238,0)" />
       </radialGradient>
-      <radialGradient id="amberGlow" cx="5%" cy="0%" r="72%">
+      <radialGradient id="cyanGlow" cx="5%" cy="0%" r="72%">
         <stop offset="0%" stopColor="rgba(245,158,11,.13)" />
         <stop offset="100%" stopColor="rgba(245,158,11,0)" />
       </radialGradient>
@@ -41,22 +41,22 @@
   </div>
 
   <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', width: 610 }}>
-    <span style={{ color: '#F8FAFC', fontSize: 50, fontWeight: 800, lineHeight: 1.04, letterSpacing: -1.4 }}>
+    <span style={{ color: '#F8FAFC', fontSize: 40, fontWeight: 800, lineHeight: 1.04, letterSpacing: -1.4 }}>
   Denis Sam Kusmahendra
 </span>
 
-<span style={{ color: '#22D3EE', fontSize: 18, fontWeight: 700, marginTop: 12 }}>
+<span style={{ color: '#22D3EE', fontSize: 20, fontWeight: 700, marginTop: 12 }}>
   Data Analytics & Business Intelligence
 </span>
 
-<span style={{ color: '#94A3B8', fontSize: 15, lineHeight: 1.55, marginTop: 12, maxWidth: 570 }}>
+<span style={{ color: '#94A3B8', fontSize: 17, lineHeight: 1.55, marginTop: 12, maxWidth: 570 }}>
   Transforming raw business data into actionable insights.
 </span>
   </div>
 
   <div style={{ position: 'relative', display: 'flex', alignItems: 'center', gap: 9 }}>
     {['SQL • BigQuery', 'Python', 'Power BI • Excel'].map(function(item, index) {
-      return <span key={item} style={{ color: index === 2 ? '#F59E0B' : '#CBD5E1', border: '1px solid rgba(148,163,184,.22)', borderRadius: 7, background: 'rgba(15,23,42,.72)', padding: '7px 10px', fontSize: 10, fontWeight: 700, fontFamily: 'monospace', letterSpacing: .7 }}>{item}</span>;
+      return <span key={item} style={{ color: index === 2 ? '#F59E0B' : '#CBD5E1', border: '1px solid rgba(148,163,184,.22)', borderRadius: 7, background: 'rgba(15,23,42,.72)', padding: '7px 10px', fontSize: 12, fontWeight: 700, fontFamily: 'monospace', letterSpacing: .7 }}>{item}</span>;
     })}
   </div>
 </div>
