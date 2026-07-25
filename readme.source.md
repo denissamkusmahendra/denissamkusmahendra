@@ -41,9 +41,17 @@
   </div>
 
   <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', width: 610 }}>
-    <span style={{ color: '#F8FAFC', fontSize: 50, fontWeight: 800, lineHeight: 1.04, letterSpacing: -1.4 }}>Marvin Chandiary</span>
-    <span style={{ color: '#22D3EE', fontSize: 18, fontWeight: 700, marginTop: 12 }}>Data Analytics &amp; Business Intelligence</span>
-    <span style={{ color: '#94A3B8', fontSize: 15, lineHeight: 1.55, marginTop: 12, maxWidth: 570 }}>Turning raw data into reliable datasets, clear analysis, and decision-ready dashboards.</span>
+    <span style={{ color: '#F8FAFC', fontSize: 50, fontWeight: 800, lineHeight: 1.04, letterSpacing: -1.4 }}>
+  Denis Sam Kusmahendra
+</span>
+
+<span style={{ color: '#22D3EE', fontSize: 18, fontWeight: 700, marginTop: 12 }}>
+  Data Analytics • Business Intelligence • E-Commerce Analytics
+</span>
+
+<span style={{ color: '#94A3B8', fontSize: 15, lineHeight: 1.55, marginTop: 12, maxWidth: 570 }}>
+  Transforming raw business data into actionable insights through SQL, Python, Power BI, BigQuery, and Excel.
+</span>
   </div>
 
   <div style={{ position: 'relative', display: 'flex', alignItems: 'center', gap: 9 }}>
