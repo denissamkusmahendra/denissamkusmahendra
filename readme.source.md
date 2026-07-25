@@ -50,12 +50,12 @@
 </span>
 
 <span style={{ color: '#94A3B8', fontSize: 15, lineHeight: 1.55, marginTop: 12, maxWidth: 570 }}>
-  Transforming raw business data into actionable insights through SQL, Python, Power BI, BigQuery, and Excel.
+  Transforming raw business data into actionable insights.
 </span>
   </div>
 
   <div style={{ position: 'relative', display: 'flex', alignItems: 'center', gap: 9 }}>
-    {['SQL + PYTHON', 'BUSINESS INTELLIGENCE', 'LEARNING DATA ENGINEERING'].map(function(item, index) {
+    {['SQL • BigQuery', 'Python', 'Power BI • Excel'].map(function(item, index) {
       return <span key={item} style={{ color: index === 2 ? '#F59E0B' : '#CBD5E1', border: '1px solid rgba(148,163,184,.22)', borderRadius: 7, background: 'rgba(15,23,42,.72)', padding: '7px 10px', fontSize: 10, fontWeight: 700, fontFamily: 'monospace', letterSpacing: .7 }}>{item}</span>;
     })}
   </div>
@@ -63,8 +63,7 @@
 ```
 
 <p align="center">
-  <a href="https://www.datascienceportfol.io/marvinchandiary"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/marvinchandiary"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
-  <a href="mailto:marvinchandiary@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1lQHH1OpiArFIfbbTV92y0YXVZJhw-1rv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/denissamk/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="mailto:denissamkusmahen@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
+  <a href="https://drive.google.com/file/d/141PxFOyfjAiVzBz6mn6A_IRTASpsmKhm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
 </p>
