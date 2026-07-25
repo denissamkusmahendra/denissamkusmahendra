@@ -68,5 +68,3 @@
   <a href="mailto:marvinchandiary@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
   <a href="https://drive.google.com/file/d/1lQHH1OpiArFIfbbTV92y0YXVZJhw-1rv/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
 </p>
-
-<p align="center"><sub>Information Systems student at BINUS University · Building at the intersection of data, systems, and business decisions</sub></p>
