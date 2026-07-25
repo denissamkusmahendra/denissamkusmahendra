@@ -11,7 +11,7 @@
       <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
         <path d="M 42 0 L 0 0 0 42" fill="none" stroke="rgba(36,52,71,.42)" strokeWidth="1" />
       </pattern>
-      <radialGradient id="cyanGlow" cx="88%" cy="48%" r="52%">
+      <radialGradient id="blueGlow" cx="88%" cy="48%" r="52%">
         <stop offset="0%" stopColor="rgba(34,211,238,.17)" />
         <stop offset="100%" stopColor="rgba(34,211,238,0)" />
       </radialGradient>
