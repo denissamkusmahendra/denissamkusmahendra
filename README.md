@@ -1,18 +1,17 @@
-## Hi there 👋
+## 👨‍💼 About Me
 
-👨‍💼 Hello, my name is Denis Sam Kusmahendra. I'm currently a Statistics undergraduate at Jakarta State University with a strong interest in e-commerce, retail, and data-driven business strategy.
+👋 Hello, my name is Denis Sam Kusmahendra. I'm currently a Statistics undergraduate at Jakarta State University with a strong interest in e-commerce, retail, and data-driven business strategy.
 	
 🗂️ Over the past several months, I've built end-to-end analytics projects using SQL, Python, Power BI, and BigQuery, focusing on sales performance, customer behavior, marketing funnel optimization, and inventory forecasting. Through these projects, I've learned how to translate data into actionable insights that support better business decisions.
 
-## Selected Work
+## 📌 Selected Work
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| Sales Performance Dashboard | Sales KPI dashboard | SQL, Power BI |
-| Customer Segmentation | RFM Analysis | Python, SQL |
-| Marketing Funnel Analysis | GA4 Funnel | BigQuery |
-| Inventory Forecasting | Holt-Winters | Python |
-
+| Project | What it demonstrates | Stack |
+|---------|----------------------|-------|
+| **Sales Performance Dashboard** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
+| **Customer Retention & Segmentation Analysis** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `PostgreSQL` `Power BI` |
+| **Marketing Funnel & Conversion Analysis** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
+| **Inventory Demand Forecasting** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
 <!--
 **denissamkusmahendra/denissamkusmahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
