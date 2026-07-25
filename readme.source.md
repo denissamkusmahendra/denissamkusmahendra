@@ -1,3 +1,4 @@
+```aura width=860 height=300
 <div style={{ position: 'relative', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', width: '100%', height: '100%', overflow: 'hidden', borderRadius: 20, background: '#0B0F14', border: '1px solid #243447', fontFamily: 'Inter, sans-serif', padding: '34px 42px' }}>
   <style>{`
     @keyframes orbit { to { transform: rotate(360deg); } }
@@ -59,6 +60,7 @@
     })}
   </div>
 </div>
+```
 
 <p align="center">
   <a href="https://www.linkedin.com/in/denissamk/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
