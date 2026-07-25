@@ -33,7 +33,7 @@
   </svg>
 
   <div style={{ position: 'relative', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-    <span style={{ color: '#F59E0B', fontSize: 12, fontWeight: 800, fontFamily: 'monospace', letterSpacing: 2.2 }}>MARVRCH / PROFILE</span>
+    <span style={{ color: '#F59E0B', fontSize: 12, fontWeight: 800, fontFamily: 'monospace', letterSpacing: 2.2 }}>DENIS / PROFILE</span>
     <div style={{ display: 'flex', alignItems: 'center', gap: 8, border: '1px solid rgba(34,211,238,.28)', borderRadius: 999, background: 'rgba(15,23,42,.58)', padding: '7px 12px' }}>
       <span id="signal" style={{ width: 7, height: 7, borderRadius: 999, background: '#22D3EE' }} />
       <span style={{ color: '#CBD5E1', fontSize: 11, fontFamily: 'monospace', letterSpacing: 1 }}>JAKARTA, INDONESIA</span>
