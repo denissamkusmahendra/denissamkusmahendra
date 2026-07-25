@@ -8,7 +8,7 @@
 
 | Project | What it demonstrates | Stack |
 |---------|----------------------|-------|
-| **Sales Performance & Business Dashboard** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
+| **[Sales Performance & Business Dashboard](https://github.com/denissamkusmahendra/Sales-Performance-Analysis)** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
 | **Customer Retention & Segmentation Analysis** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `PostgreSQL` `Power BI` |
 | **Marketing Performance & Funnel Analytics** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
 | **Demand Forecasting & Inventory Optimization** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
