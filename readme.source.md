@@ -46,7 +46,7 @@
 </span>
 
 <span style={{ color: '#22D3EE', fontSize: 18, fontWeight: 700, marginTop: 12 }}>
-  Data Analytics • Business Intelligence • E-Commerce Analytics
+  Data Analytics & Business Intelligence
 </span>
 
 <span style={{ color: '#94A3B8', fontSize: 15, lineHeight: 1.55, marginTop: 12, maxWidth: 570 }}>
