@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hello, my name is Denis Sam Kusmahendra. I'm currently a Statistics undergraduate at Jakarta State University with a strong interest in e-commerce, retail, and data-driven business strategy.
+	
+Over the past several months, I've built end-to-end analytics projects using SQL, Python, Power BI, and BigQuery, focusing on sales performance, customer behavior, marketing funnel optimization, and inventory forecasting. Through these projects, I've learned how to translate data into actionable insights that support better business decisions. 
+
 <!--
 **denissamkusmahendra/denissamkusmahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
