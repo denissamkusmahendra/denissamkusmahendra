@@ -56,7 +56,7 @@
 
   <div style={{ position: 'relative', display: 'flex', alignItems: 'center', gap: 9 }}>
     {['SQL • BigQuery', 'Python', 'Power BI • Excel'].map(function(item, index) {
-      return <span key={item} style={{ color: index === 2 ? '#F59E0B' : '#CBD5E1', border: '1px solid rgba(148,163,184,.22)', borderRadius: 7, background: 'rgba(15,23,42,.72)', padding: '7px 10px', fontSize: 12, fontWeight: 700, fontFamily: 'monospace', letterSpacing: .7 }}>{item}</span>;
+      return <span key={item} style={{ color: index === 2 ? '#F59E0B' : '#F59E0B', border: '1px solid rgba(148,163,184,.22)', borderRadius: 7, background: 'rgba(15,23,42,.72)', padding: '7px 10px', fontSize: 12, fontWeight: 700, fontFamily: 'monospace', letterSpacing: .7 }}>{item}</span>;
     })}
   </div>
 </div>
