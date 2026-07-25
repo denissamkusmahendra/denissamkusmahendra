@@ -8,10 +8,10 @@
 
 | Project | What it demonstrates | Stack |
 |---------|----------------------|-------|
-| **Sales Performance Dashboard** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
+| **Sales Performance & Business Dashboard** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
 | **Customer Retention & Segmentation Analysis** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `PostgreSQL` `Power BI` |
-| **Marketing Funnel & Conversion Analysis** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
-| **Inventory Demand Forecasting** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
+| **Marketing Performance & Funnel Analytics** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
+| **Demand Forecasting & Inventory Optimization** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
 
 **Now:** Building new analytics projects and continuously improving my SQL, Python, Power BI, and Google BigQuery skills while exploring Business Intelligence and Operations Analytics.
 <!--
