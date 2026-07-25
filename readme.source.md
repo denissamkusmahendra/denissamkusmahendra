@@ -8,7 +8,7 @@
   `}</style>
   <svg width="860" height="300" style={{ position: 'absolute', inset: 0 }}>
     <defs>
-      <pattern id="grid" width="62" height="62" patternUnits="userSpaceOnUse">
+      <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
         <path d="M 42 0 L 0 0 0 42" fill="none" stroke="rgba(36,52,71,.42)" strokeWidth="1" />
       </pattern>
       <radialGradient id="cyanGlow" cx="88%" cy="48%" r="52%">
