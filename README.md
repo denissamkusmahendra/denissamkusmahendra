@@ -12,6 +12,8 @@
 | **Customer Retention & Segmentation Analysis** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `PostgreSQL` `Power BI` |
 | **Marketing Funnel & Conversion Analysis** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
 | **Inventory Demand Forecasting** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
+
+**Now:** Building new analytics projects and continuously improving my SQL, Python, Power BI, and Google BigQuery skills while exploring Business Intelligence and Operations Analytics.
 <!--
 **denissamkusmahendra/denissamkusmahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
