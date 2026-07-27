@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/denissamk/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
   <a href="mailto:denissamkusmahen@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/141PxFOyfjAiVzBz6mn6A_IRTASpsmKhm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/141PxFOyfjAiVzBz6mn6A_IRTASpsmKhm"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
 </p>
 
 ## 👨‍💼 About Me
