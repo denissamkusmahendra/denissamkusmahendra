@@ -15,14 +15,14 @@
         <stop offset="0%" stopColor="rgba(34,211,238,.17)" />
         <stop offset="100%" stopColor="rgba(34,211,238,0)" />
       </radialGradient>
-      <radialGradient id="cyanGlow" cx="5%" cy="0%" r="72%">
+      <radialGradient id="amberGlow" cx="5%" cy="0%" r="72%">
         <stop offset="0%" stopColor="rgba(245,158,11,.13)" />
         <stop offset="100%" stopColor="rgba(245,158,11,0)" />
       </radialGradient>
     </defs>
     <rect width="860" height="300" fill="url(#grid)" />
     <rect width="860" height="300" fill="url(#cyanGlow)" />
-    <rect width="860" height="300" fill="url(#cyanGlow)" />
+    <rect width="860" height="300" fill="url(#amberGlow)" />
     <g id="orbit">
       <circle cx="742" cy="151" r="82" fill="none" stroke="rgba(34,211,238,.34)" strokeWidth="1" strokeDasharray="4 10" />
       <circle cx="742" cy="69" r="4" fill="#22D3EE" />
