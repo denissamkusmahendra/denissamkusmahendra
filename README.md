@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/denissamk/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
   <a href="mailto:denissamkusmahen@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F59E0B" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/141PxFOyfjAiVzBz6mn6A_IRTASpsmKhm/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1KurjV9-mwABnIXwwb63nC3S1ZuMuNAXU/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readme&logoColor=F59E0B" alt="Resume" /></a>
 </p>
 
 ## 👨‍💼 About Me
@@ -20,10 +20,10 @@
 
 | Project | What it demonstrates | Stack |
 |---------|----------------------|-------|
-| **[Sales Performance & Business Dashboard](https://github.com/denissamkusmahendra/Sales-Performance-Analysis)** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
-| **[Customer Retention & Segmentation Analysis](https://github.com/denissamkusmahendra/Customer-Retention-and-Segmentation-Analysis)** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `PostgreSQL` `Power BI` |
-| **[Marketing Performance & Funnel Analytics](https://github.com/denissamkusmahendra/Marketing-and-Conversion-Funnel-Analysis)** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
-| **[Demand Forecasting & Inventory Optimization](https://github.com/denissamkusmahendra/Demand-Forecasting-and-Inventory-Optimization-Analysis)** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
+| **[Sales Performance & Business Dashboard](https://github.com/denissamk/Sales-Performance-Analysis)** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
+| **[Customer Retention & Segmentation Analysis](https://github.com/denissamk/Customer-Retention-and-Segmentation)** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `PostgreSQL` `Power BI` |
+| **[Marketing Performance & Funnel Analytics](https://github.com/denissamk/Marketing-and-Conversion-Funnel)** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
+| **[Demand Forecasting & Inventory Optimization](https://github.com/denissamk/Demand-Forecasting-and-Inventory-Optimization)** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
 
 **Now:** Building new analytics projects and continuously improving my SQL, Python, Power BI, and Google BigQuery skills while exploring Business Intelligence and Operations Analytics.
 
