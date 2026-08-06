@@ -26,7 +26,7 @@
 | **[Marketing Performance & Funnel Analytics](https://github.com/denissamk/Marketing-and-Conversion-Funnel)** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
 | **[Demand Forecasting & Inventory Optimization](https://github.com/denissamk/Demand-Forecasting-and-Inventory-Optimization)** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
 
-**Now:** Building new analytics projects and continuously improving my SQL, Python, Power BI, and Google BigQuery skills while exploring Business Intelligence and Operations Analytics.
+**Now:** Building new analytics projects and continuously improving my SQL, Python, Power BI, Tableau, and Google BigQuery skills while exploring Business Intelligence and Operations Analytics.
 
 <!--
 **denissamkusmahendra/denissamkusmahendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
