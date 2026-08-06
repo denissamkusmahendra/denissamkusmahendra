@@ -84,9 +84,9 @@
 | Project | What it demonstrates | Stack |
 |---------|----------------------|-------|
 | **[Sales Performance & Business Dashboard](https://github.com/denissamk/Sales-Performance-Analysis)** | Interactive Power BI dashboard analyzing sales KPIs, revenue trends, and regional performance using the Olist e-commerce dataset. | `PostgreSQL` `Power BI` |
-| **[Customer Retention & Segmentation Analysis](https://github.com/denissamk/Customer-Retention-and-Segmentation)** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `PostgreSQL` `Power BI` |
+| **[Customer Retention & Segmentation Analysis](https://github.com/denissamk/Customer-Retention-and-Segmentation)** | Applied RFM segmentation and Cohort Analysis to identify high-value customers and evaluate customer retention over time. | `Python` `SQL` `Power BI` |
 | **[Marketing Performance & Funnel Analytics](https://github.com/denissamk/Marketing-and-Conversion-Funnel)** | Analyzed GA4 event data in BigQuery to identify checkout funnel drop-offs, conversion rates, and marketing performance. | `BigQuery` `SQL` `Power BI` |
-| **[Demand Forecasting & Inventory Optimization](https://github.com/denissamk/Demand-Forecasting-and-Inventory-Optimization)** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `PostgreSQL` `Python` `Power BI` |
+| **[Demand Forecasting & Inventory Optimization](https://github.com/denissamk/Demand-Forecasting-and-Inventory-Optimization)** | Built Holt-Winters forecasting models and an ABC-XYZ inventory matrix to support inventory planning and replenishment decisions. | `SQL` `Python` `Power BI` |
 
 **Now:** Building new analytics projects and continuously improving my SQL, Python, Power BI, Tableau, and Google BigQuery skills while exploring Business Intelligence and Operations Analytics.
 <!--
